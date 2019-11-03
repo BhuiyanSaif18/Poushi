@@ -14,7 +14,7 @@
     "Country": "Sao Tome and Principe",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/17.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Ad ut commodo adipisicing et incididunt commodo ea irure."
       }
@@ -35,7 +35,7 @@
     "Country": "Brazil",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/39.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Consequat ex ullamco mollit culpa voluptate officia."
       }
@@ -56,7 +56,7 @@
     "Country": "Burkina Faso",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/97.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Culpa exercitation do ea laboris est nulla elit adipisicing."
       }
@@ -77,7 +77,7 @@
     "Country": "Georgia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/42.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Adipisicing mollit est nisi nulla dolor."
       }
@@ -98,7 +98,7 @@
     "Country": "Barbados",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/67.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Est mollit elit sunt ea consequat Lorem dolor esse qui incididunt fugiat do voluptate."
       }
@@ -119,7 +119,7 @@
     "Country": "Mongolia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/15.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Sunt ex Lorem consectetur commodo amet labore dolore aute tempor proident occaecat sit."
       }
@@ -140,7 +140,7 @@
     "Country": "Bouvet Island",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/79.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Do excepteur nisi ad dolor velit duis aute nisi."
       }
@@ -161,7 +161,7 @@
     "Country": "Viet Nam",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/23.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Lorem adipisicing sit proident amet occaecat non amet laboris veniam laboris aliqua adipisicing amet tempor."
       }
@@ -182,7 +182,7 @@
     "Country": "Kazakhstan",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/21.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Adipisicing ut mollit non incididunt proident est."
       }
@@ -203,7 +203,7 @@
     "Country": "Tonga",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/41.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Est veniam labore consectetur nulla minim et deserunt id consectetur sunt ea ad."
       }
@@ -224,7 +224,7 @@
     "Country": "Germany",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/25.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Labore adipisicing occaecat nisi magna."
       }
@@ -245,7 +245,7 @@
     "Country": "Lithuania",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/43.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Sit ullamco elit amet in excepteur duis laboris proident consectetur esse aute."
       }
@@ -266,7 +266,7 @@
     "Country": "Russian Federation",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/66.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Culpa esse magna nulla elit aute id sunt consectetur ullamco."
       }
@@ -287,7 +287,7 @@
     "Country": "Belgium",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/90.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Eu id duis ad cupidatat nisi."
       }
@@ -308,7 +308,7 @@
     "Country": "Chile",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/53.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Consequat dolore culpa eu amet aliquip nisi voluptate officia qui non in proident aute velit."
       }
@@ -329,7 +329,7 @@
     "Country": "Oman",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/93.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Aliquip laborum tempor do ipsum labore."
       }
@@ -350,7 +350,7 @@
     "Country": "Benin",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/54.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Laboris adipisicing labore adipisicing tempor ut dolor esse officia amet incididunt nostrud ipsum."
       }
@@ -371,7 +371,7 @@
     "Country": "Armenia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/25.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Laboris Lorem exercitation occaecat ipsum eu irure non qui cillum elit voluptate esse officia veniam."
       }
@@ -392,7 +392,7 @@
     "Country": "Yugoslavia",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/85.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Mollit veniam cupidatat anim anim veniam sit labore."
       }
@@ -413,7 +413,7 @@
     "Country": "Mozambique",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/61.jpg",
+        "url": "https://material.angular.io/assets/img/examples/shiba2.jpg",
         "isMain": true,
         "description": "Occaecat exercitation non sit in incididunt ut nostrud laborum."
       }
