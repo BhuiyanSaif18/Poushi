@@ -25,6 +25,8 @@ namespace DatingApp.API.Helpers
             //From dto update goes user object
             CreateMap<UserUpdateDto, User>();
             CreateMap<Photo, PhotosForDetailsDtos>();
+            CreateMap<Photo, PhotoForReturnDto>();
+            CreateMap<PhotoForCreationDto, Photo>();
         }
     }
 }
