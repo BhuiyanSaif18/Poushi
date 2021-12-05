@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
 using CloudinaryDotNet;
 using CloudinaryDotNet.Actions;
-using DatingApp.API.Data;
-using DatingApp.API.Dtos;
-using DatingApp.API.Helpers;
-using DatingApp.API.Models;
+using PoushiApp.API.Data;
+using PoushiApp.API.Dtos;
+using PoushiApp.API.Helpers;
+using PoushiApp.API.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
@@ -14,7 +14,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace DatingApp.API.Controllers
+namespace PoushiApp.API.Controllers
 {
     [Authorize]
     [Route("api/user/{userId}/photos")]

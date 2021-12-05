@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
-using DatingApp.API.Dtos;
-using DatingApp.API.Models;
+using PoushiApp.API.Dtos;
+using PoushiApp.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingApp.API.Helpers
+namespace PoushiApp.API.Helpers
 {
     public class AutoMapperProfiles : Profile
     {

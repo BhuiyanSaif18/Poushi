@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using DatingApp.API.Data;
-using DatingApp.API.Dtos;
+using PoushiApp.API.Data;
+using PoushiApp.API.Dtos;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace DatingApp.API.Controllers
+namespace PoushiApp.API.Controllers
 {
     [Authorize]
     [Route("api/[controller]")]

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingApp.API.Models
+namespace PoushiApp.API.Models
 {
     public class User
     {

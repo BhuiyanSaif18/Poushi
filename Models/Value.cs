@@ -1,4 +1,4 @@
-namespace DatingApp.API.Models
+namespace PoushiApp.API.Models
 {
     public class Value
     {

@@ -1,6 +1,6 @@
-﻿using DatingApp.API.Data;
-using DatingApp.API.Dtos;
-using DatingApp.API.Models;
+﻿using PoushiApp.API.Data;
+using PoushiApp.API.Dtos;
+using PoushiApp.API.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -10,7 +10,7 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DatingApp.API.Controllers
+namespace PoushiApp.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

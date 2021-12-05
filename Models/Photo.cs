@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DatingApp.API.Models
+namespace PoushiApp.API.Models
 {
     public class Photo
     {

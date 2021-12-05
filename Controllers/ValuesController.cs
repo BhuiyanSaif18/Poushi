@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DatingApp.API.Data;
+using PoushiApp.API.Data;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace DatingApp.API.Controllers
+namespace PoushiApp.API.Controllers
 {
     [Authorize]
     [Route("api/[controller]")]

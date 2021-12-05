@@ -1,7 +1,7 @@
-using DatingApp.API.Models;
+using PoushiApp.API.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace DatingApp.API.Data
+namespace PoushiApp.API.Data
 {
     public class DataContext : DbContext
     {

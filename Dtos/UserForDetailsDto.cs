@@ -1,10 +1,10 @@
-﻿using DatingApp.API.Models;
+﻿using PoushiApp.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DatingApp.API.Dtos
+namespace PoushiApp.API.Dtos
 {
     public class UserForDetailsDto
     {

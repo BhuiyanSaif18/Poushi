@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace DatingApp.API.Migrations
+namespace PoushiApp.API.Migrations
 {
     public partial class AddedPublicId : Migration
     {
