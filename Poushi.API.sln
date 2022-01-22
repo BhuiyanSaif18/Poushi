@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poushi.API", "Poushi.WebService\Poushi.API.csproj", "{AE76A4F0-4EAC-4658-941A-10CB3698376F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poushi.UnitTests", "Poushi.UnitTests\Poushi.UnitTests.csproj", "{54879048-1FA5-41A9-9CA4-326354CD1DFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poushi.UnitTests", "Poushi.UnitTests\Poushi.UnitTests.csproj", "{54879048-1FA5-41A9-9CA4-326354CD1DFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B107798F-9892-43E9-AC17-9196758F5783}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6CA5A413-5178-4326-827E-21871C74E2DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE76A4F0-4EAC-4658-941A-10CB3698376F} = {B107798F-9892-43E9-AC17-9196758F5783}
+		{54879048-1FA5-41A9-9CA4-326354CD1DFF} = {6CA5A413-5178-4326-827E-21871C74E2DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B7A302BB-A51A-4FE3-8846-B23AD55D3F33}
